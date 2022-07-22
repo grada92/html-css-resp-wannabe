@@ -146,6 +146,7 @@ img {
 
     .lessons .col {
         width: auto;
+        padding: 20px;
     }
 
     .steps .col {
