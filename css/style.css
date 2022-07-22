@@ -156,6 +156,20 @@ img {
     
     .why-us .col-right {
         width: auto;
-        text-align: center;
+        text-align: left;
+    }
+
+    .why-us {
+
+        background-color: black;
+        margin: 0;
+        padding: 20px 0px;
+    }
+
+    .steps {
+
+        background-color: pink;
+        margin: 0;
     }
 }
+
