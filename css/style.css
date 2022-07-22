@@ -152,6 +152,10 @@ img {
         padding-top: 30px;
     }
 
+    .col p {
+        padding-bottom: 30px;
+    }
+
     .steps .col {
         width: auto;
         padding: 20px;
