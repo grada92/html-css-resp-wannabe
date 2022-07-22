@@ -133,6 +133,8 @@ img {
     .container {
         width:auto;
     }
+
+    
 }
 
 @media screen and (max-width: 480px) {
@@ -185,4 +187,17 @@ img {
         width: auto;
     }
 }
+
+
+/***** BONUS ******/
+
+@media screen and (min-width: 768px) and (max-width: 1160px) {
+
+
+   body {
+
+    overflow-x: hidden;
+   }
+}
+
 
