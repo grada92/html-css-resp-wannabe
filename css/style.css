@@ -141,7 +141,20 @@ img {
 
         flex-direction: column;
         align-items: center;
-        
+ 
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: auto;
+        padding: 20px;
     }
     
+    .why-us .col-right {
+        width: auto;
+        text-align: center;
+    }
 }
