@@ -145,7 +145,7 @@ img {
     }
 
     .lessons .col {
-        width: 100%;
+        width: auto;
     }
 
     .steps .col {
